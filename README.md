@@ -1,4 +1,4 @@
-
+![Header](https://raw.githubusercontent.com/kpf2114/kpf2114/main/images/columbia-sites-hero-image_2.jpg)
 
 ### Hello! 👋
 #### I'm Kevin Frazier, a graduate student in the Quantitative Methods in Social Sciences (QMSS) program at Columbia University. My research interests include finance & macroeconomics, geography & map vizualizations, as well as sports analytics. You can reach me at my [Columbia email](kpf2114@columbia.edu) or my [LinkedIn](https://www.linkedin.com/in/kevin-frazier-b15226a8/).
