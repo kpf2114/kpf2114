@@ -11,7 +11,10 @@
 #### Quantitative Theory and Methodology - a survey of statistical methods & their application to experimental settings
 #### Research Seminar - presentations & research from current data science practitioners
 
-### Skills
+### 🔭 Current Projects
+#### Python Wrapper for the [Art Institute of Chicago API](https://api.artic.edu/docs/#introduction)
+
+### 🛠️ Skills & Tools
 
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-Jupyter-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-Colab-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-RStudio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tool-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tool-QGIS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tool-GeoDA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
