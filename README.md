@@ -14,7 +14,8 @@
 #### Research Seminar - presentations & research from current data science practitioners
 
 
-[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpf2114)](https://github.com/kpf2114/github-readme-stats)
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpf2114&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpf2114&count_private=true)
 
 <!--
 **kpf2114/kpf2114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
