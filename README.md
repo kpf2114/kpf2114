@@ -20,6 +20,9 @@
 
 ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpf2114&count_private=true)
 
+### 🗺️ Map Visualization of the Day
+![MapViz](https://raw.githubusercontent.com/kpf2114/kpf2114/main/images/map_viz.png)
+
 <!--
 **kpf2114/kpf2114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
