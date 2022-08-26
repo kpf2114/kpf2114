@@ -18,9 +18,9 @@
 #### Time Series, Panel Data, and Forecasting - econometric modeling of temporal & stochastic processes, coursework in R
 #### Quantitative Theory and Methodology - a survey of statistical methods & their application to conducting research
 
-### 🔭 Current & Completed Projects
-#### Thesis on the link between gentrification and the displacement of minority populations in New York & Los Angeles (COMPLETE - reach out to me for access!)
-#### Study on the performance of various momentum and factor models on S&P 500 stocks since 2008 (COMPLETE - reach out to me for access!)
+### 🔭 Completed Projects
+#### [Thesis on the link between gentrification and the displacement of minority populations in New York & Los Angeles](https://drive.google.com/drive/folders/1OXcN9i45QRhn4JUPo9n0pkqQunYvbFaE?usp=sharing) (COMPLETE)
+#### [Study on the performance of various momentum and factor models on S&P 500 stocks since 2008](https://drive.google.com/drive/folders/1bu8HTQM1LORVRkto4I_gi_R4m80BKCCX?usp=sharing) (COMPLETE)
 #### GitHub repository for [Modern Data Structures](https://github.com/QMSS-G5072-2021/Frazier_Kevin) (COMPLETE)
 #### Python Wrapper for [Census Bureau Economic Surveys](https://test.pypi.org/project/economic-indicators/) (COMPLETE)
 
